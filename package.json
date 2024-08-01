@@ -24,7 +24,7 @@
     "electron-store": "^8.0.1",
     "jquery": "^3.6.0",
     "jquery-ui": "^1.13.0",
-    "node-mac-contacts": "^1.4.0",
+    "node-mac-contacts": "^1.7.2",
     "sqlite3": "^5.0.2"
   }
 }
